@@ -1,0 +1,11 @@
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\bin\Debug\Message Decoder.exe.config
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\bin\Debug\Message Decoder.exe
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\bin\Debug\Message Decoder.pdb
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message Decoder.csproj.AssemblyReference.cache
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message Decoder.csproj.SuggestedBindingRedirects.cache
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message_Decoder.Form1.resources
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message_Decoder.Properties.Resources.resources
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message Decoder.csproj.GenerateResource.cache
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message Decoder.csproj.CoreCompileInputs.cache
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message Decoder.exe
+D:\kuba\GitHub\message-coder-decoder\Message Decoder\Message Decoder\obj\Debug\Message Decoder.pdb

@@ -16,5 +16,15 @@ namespace Message_Decoder
         {
             InitializeComponent();
         }
+
+        private void btnDecode_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCode_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
