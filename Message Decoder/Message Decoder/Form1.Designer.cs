@@ -32,11 +32,11 @@
             this.txtBoxInput = new System.Windows.Forms.TextBox();
             this.btnCode = new System.Windows.Forms.Button();
             this.btnDecode = new System.Windows.Forms.Button();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.nudNumber = new System.Windows.Forms.NumericUpDown();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtBoxFinal = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudNumber)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -73,14 +73,13 @@
             this.btnDecode.TabIndex = 3;
             this.btnDecode.Text = "Decode";
             this.btnDecode.UseVisualStyleBackColor = true;
-            this.btnDecode.Click += new System.EventHandler(this.btnDecode_Click);
             // 
-            // numericUpDown1
+            // nudNumber
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(425, 91);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(76, 20);
-            this.numericUpDown1.TabIndex = 4;
+            this.nudNumber.Location = new System.Drawing.Point(425, 91);
+            this.nudNumber.Name = "nudNumber";
+            this.nudNumber.Size = new System.Drawing.Size(76, 20);
+            this.nudNumber.TabIndex = 4;
             // 
             // label2
             // 
@@ -91,12 +90,12 @@
             this.label2.TabIndex = 5;
             this.label2.Text = "code number";
             // 
-            // textBox1
+            // txtBoxFinal
             // 
-            this.textBox1.Location = new System.Drawing.Point(12, 428);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(489, 20);
-            this.textBox1.TabIndex = 6;
+            this.txtBoxFinal.Location = new System.Drawing.Point(12, 428);
+            this.txtBoxFinal.Name = "txtBoxFinal";
+            this.txtBoxFinal.Size = new System.Drawing.Size(489, 20);
+            this.txtBoxFinal.TabIndex = 6;
             // 
             // label3
             // 
@@ -113,16 +112,16 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(513, 460);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtBoxFinal);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.nudNumber);
             this.Controls.Add(this.btnDecode);
             this.Controls.Add(this.btnCode);
             this.Controls.Add(this.txtBoxInput);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudNumber)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -134,9 +133,9 @@
         private System.Windows.Forms.TextBox txtBoxInput;
         private System.Windows.Forms.Button btnCode;
         private System.Windows.Forms.Button btnDecode;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown nudNumber;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtBoxFinal;
         private System.Windows.Forms.Label label3;
     }
 }
